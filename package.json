@@ -1,8 +1,6 @@
 {
-  "name": "kozodoi-club-hack",
+  "name": "vk-hackathon-hotfix-web",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "homepage": "https://arsenitem.github.io/vk-hackathon-hotfix-web",
   "scripts": {
     "start": "cross-env PORT=10888 react-scripts start",
