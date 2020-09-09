@@ -134,7 +134,7 @@ const App = () => {
 	return (
 		<Router>
 			<Switch>
-				<Route path="/" exact>
+				<Route path="/vk-hackathon-hotfix-web" exact>
 					<Home foodAreas={FOOD_AREAS} order={order} />
 				</Route>
 				<Route path="/order/:areaId/:itemId" exact>
