@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/vk-hackathon-hotfix-web/static/css/main.abc49069.chunk.css",
-    "main.js": "/vk-hackathon-hotfix-web/static/js/main.e156db80.chunk.js",
-    "main.js.map": "/vk-hackathon-hotfix-web/static/js/main.e156db80.chunk.js.map",
-    "runtime-main.js": "/vk-hackathon-hotfix-web/static/js/runtime-main.0c884b9f.js",
-    "runtime-main.js.map": "/vk-hackathon-hotfix-web/static/js/runtime-main.0c884b9f.js.map",
-    "static/js/2.84911def.chunk.js": "/vk-hackathon-hotfix-web/static/js/2.84911def.chunk.js",
-    "static/js/2.84911def.chunk.js.map": "/vk-hackathon-hotfix-web/static/js/2.84911def.chunk.js.map",
+    "main.js": "/vk-hackathon-hotfix-web/static/js/main.83314a3b.chunk.js",
+    "main.js.map": "/vk-hackathon-hotfix-web/static/js/main.83314a3b.chunk.js.map",
+    "runtime-main.js": "/vk-hackathon-hotfix-web/static/js/runtime-main.6fc1afc2.js",
+    "runtime-main.js.map": "/vk-hackathon-hotfix-web/static/js/runtime-main.6fc1afc2.js.map",
+    "static/js/2.7a14ca6e.chunk.js": "/vk-hackathon-hotfix-web/static/js/2.7a14ca6e.chunk.js",
+    "static/js/2.7a14ca6e.chunk.js.map": "/vk-hackathon-hotfix-web/static/js/2.7a14ca6e.chunk.js.map",
     "index.html": "/vk-hackathon-hotfix-web/index.html",
-    "precache-manifest.84cc0634edfc01828d07ecd795d5bced.js": "/vk-hackathon-hotfix-web/precache-manifest.84cc0634edfc01828d07ecd795d5bced.js",
+    "precache-manifest.35bf68f748b54d5ffadcba41476cd36c.js": "/vk-hackathon-hotfix-web/precache-manifest.35bf68f748b54d5ffadcba41476cd36c.js",
     "service-worker.js": "/vk-hackathon-hotfix-web/service-worker.js",
     "static/css/main.abc49069.chunk.css.map": "/vk-hackathon-hotfix-web/static/css/main.abc49069.chunk.css.map",
-    "static/js/2.84911def.chunk.js.LICENSE.txt": "/vk-hackathon-hotfix-web/static/js/2.84911def.chunk.js.LICENSE.txt",
+    "static/js/2.7a14ca6e.chunk.js.LICENSE.txt": "/vk-hackathon-hotfix-web/static/js/2.7a14ca6e.chunk.js.LICENSE.txt",
     "static/media/1.png": "/vk-hackathon-hotfix-web/static/media/1.dfc54362.png",
     "static/media/2.png": "/vk-hackathon-hotfix-web/static/media/2.20489759.png",
     "static/media/3.png": "/vk-hackathon-hotfix-web/static/media/3.dbf82c38.png",
@@ -25,9 +25,9 @@
     "static/media/sub.png": "/vk-hackathon-hotfix-web/static/media/sub.4eb05fdd.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0c884b9f.js",
-    "static/js/2.84911def.chunk.js",
+    "static/js/runtime-main.6fc1afc2.js",
+    "static/js/2.7a14ca6e.chunk.js",
     "static/css/main.abc49069.chunk.css",
-    "static/js/main.e156db80.chunk.js"
+    "static/js/main.83314a3b.chunk.js"
   ]
 }

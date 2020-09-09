@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3c3bca79da9e0ed46973fc06d0b81b7d",
+    "revision": "e2f5f550b41449f40a9f35058d012476",
     "url": "/vk-hackathon-hotfix-web/index.html"
   },
   {
-    "revision": "e7f5b00c57a5670de3d1",
+    "revision": "9615f5821e5f1429882f",
     "url": "/vk-hackathon-hotfix-web/static/css/main.abc49069.chunk.css"
   },
   {
-    "revision": "3653dceec2bb1395e4ce",
-    "url": "/vk-hackathon-hotfix-web/static/js/2.84911def.chunk.js"
+    "revision": "af24b7cad5ecdedd8d86",
+    "url": "/vk-hackathon-hotfix-web/static/js/2.7a14ca6e.chunk.js"
   },
   {
     "revision": "41b66b6fd6eecba581340794bb1831be",
-    "url": "/vk-hackathon-hotfix-web/static/js/2.84911def.chunk.js.LICENSE.txt"
+    "url": "/vk-hackathon-hotfix-web/static/js/2.7a14ca6e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e7f5b00c57a5670de3d1",
-    "url": "/vk-hackathon-hotfix-web/static/js/main.e156db80.chunk.js"
+    "revision": "9615f5821e5f1429882f",
+    "url": "/vk-hackathon-hotfix-web/static/js/main.83314a3b.chunk.js"
   },
   {
-    "revision": "dab9dc58777e2da5d6d0",
-    "url": "/vk-hackathon-hotfix-web/static/js/runtime-main.0c884b9f.js"
+    "revision": "fb41923fe5f4e709ee63",
+    "url": "/vk-hackathon-hotfix-web/static/js/runtime-main.6fc1afc2.js"
   },
   {
     "revision": "dfc54362fc2b0f7b99a4038b87dd9e64",
