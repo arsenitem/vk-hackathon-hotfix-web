@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/vk-hackathon-hotfix-web/static/css/main.abc49069.chunk.css",
-    "main.js": "/vk-hackathon-hotfix-web/static/js/main.446987cb.chunk.js",
-    "main.js.map": "/vk-hackathon-hotfix-web/static/js/main.446987cb.chunk.js.map",
+    "main.js": "/vk-hackathon-hotfix-web/static/js/main.e156db80.chunk.js",
+    "main.js.map": "/vk-hackathon-hotfix-web/static/js/main.e156db80.chunk.js.map",
     "runtime-main.js": "/vk-hackathon-hotfix-web/static/js/runtime-main.0c884b9f.js",
     "runtime-main.js.map": "/vk-hackathon-hotfix-web/static/js/runtime-main.0c884b9f.js.map",
     "static/js/2.84911def.chunk.js": "/vk-hackathon-hotfix-web/static/js/2.84911def.chunk.js",
     "static/js/2.84911def.chunk.js.map": "/vk-hackathon-hotfix-web/static/js/2.84911def.chunk.js.map",
     "index.html": "/vk-hackathon-hotfix-web/index.html",
-    "precache-manifest.8351021921d3a8142783e9f434aa5893.js": "/vk-hackathon-hotfix-web/precache-manifest.8351021921d3a8142783e9f434aa5893.js",
+    "precache-manifest.84cc0634edfc01828d07ecd795d5bced.js": "/vk-hackathon-hotfix-web/precache-manifest.84cc0634edfc01828d07ecd795d5bced.js",
     "service-worker.js": "/vk-hackathon-hotfix-web/service-worker.js",
     "static/css/main.abc49069.chunk.css.map": "/vk-hackathon-hotfix-web/static/css/main.abc49069.chunk.css.map",
     "static/js/2.84911def.chunk.js.LICENSE.txt": "/vk-hackathon-hotfix-web/static/js/2.84911def.chunk.js.LICENSE.txt",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.0c884b9f.js",
     "static/js/2.84911def.chunk.js",
     "static/css/main.abc49069.chunk.css",
-    "static/js/main.446987cb.chunk.js"
+    "static/js/main.e156db80.chunk.js"
   ]
 }
